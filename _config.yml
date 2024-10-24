@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_2602.png"
+  avatar           : "foo-bar-identity-th.jpg"
   name             : "Ling LI"
   pronouns         : "she/her"  
   bio              : "Computer science PhD student in KCL"
