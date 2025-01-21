@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "UK"
-title                    : "Ling Li / PhD student in KCL"
+title                    : "Ling Li / PhD student in Informatics of KCL"
 title_separator          : "-"
 name                     : &name "Ling Li"
 description              : &description "personal description"
